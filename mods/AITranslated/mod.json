@@ -1,0 +1,13 @@
+{
+	"name" : "AI translated",
+	"description" : "AI translated by Google Translate",
+	"version" : "1.0",
+	"author" : "Google Translate",
+	"contact" : "",
+	"language" : "belarusian",
+	"modType" : "Translation",
+	"translations" : [
+		"config/vcmi-belarusian-ai/maps.json",
+		"config/vcmi-belarusian-ai/chronicles.json"
+	]
+}
