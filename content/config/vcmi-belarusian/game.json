@@ -1592,7 +1592,7 @@
 	"core.castinfo.3" : "Здароўе",
 	"core.castinfo.4" : "Хуткасць",
 	"core.castinfo.5" : "Прырост за тыдзень",
-	"core.castinfo.6" : "Выйсці з будынка",
+	"core.castinfo.6" : "Выйсці з будынка %s",
 	"core.cmpmusic.0" : "CampainMusic01",
 	"core.cmpmusic.1" : "CampainMusic02",
 	"core.cmpmusic.10" : "AiTheme1",
